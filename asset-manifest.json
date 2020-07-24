@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sreeharivks/covid-19-tracker/static/css/main.d8847db5.chunk.css",
+    "main.js": "/sreeharivks/covid-19-tracker/static/js/main.b785002a.chunk.js",
+    "main.js.map": "/sreeharivks/covid-19-tracker/static/js/main.b785002a.chunk.js.map",
+    "runtime-main.js": "/sreeharivks/covid-19-tracker/static/js/runtime-main.70f74003.js",
+    "runtime-main.js.map": "/sreeharivks/covid-19-tracker/static/js/runtime-main.70f74003.js.map",
+    "static/css/2.7c35e809.chunk.css": "/sreeharivks/covid-19-tracker/static/css/2.7c35e809.chunk.css",
+    "static/js/2.2ffecef9.chunk.js": "/sreeharivks/covid-19-tracker/static/js/2.2ffecef9.chunk.js",
+    "static/js/2.2ffecef9.chunk.js.map": "/sreeharivks/covid-19-tracker/static/js/2.2ffecef9.chunk.js.map",
+    "index.html": "/sreeharivks/covid-19-tracker/index.html",
+    "precache-manifest.8953daae28c9bf783f356ff45edd1202.js": "/sreeharivks/covid-19-tracker/precache-manifest.8953daae28c9bf783f356ff45edd1202.js",
+    "service-worker.js": "/sreeharivks/covid-19-tracker/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/sreeharivks/covid-19-tracker/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.d8847db5.chunk.css.map": "/sreeharivks/covid-19-tracker/static/css/main.d8847db5.chunk.css.map",
+    "static/js/2.2ffecef9.chunk.js.LICENSE.txt": "/sreeharivks/covid-19-tracker/static/js/2.2ffecef9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70f74003.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.2ffecef9.chunk.js",
+    "static/css/main.d8847db5.chunk.css",
+    "static/js/main.b785002a.chunk.js"
+  ]
+}
